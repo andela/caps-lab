@@ -9,7 +9,7 @@
 + Clone the repository
 + Open **index.html** in your browser to see the currently failing test specs you are to pass
 + Open the repository in your favorite text editor to explore the different files
-+ Open **js\generic.js** and write the function(s) or lines of code to pass the tests
++ Open **js\caps.js** and write the function(s) or lines of code to pass the tests
 + You could refresh **index.html** in your browser intermittently to see the status of test specs.
 
 
